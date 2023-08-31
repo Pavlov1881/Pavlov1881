@@ -3,19 +3,20 @@
 <h3 align="center">I'm learning JavaScript in Software University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavlov1881&label=Profile%20views&color=0e75b6&style=flat" alt="pavlov1881" /> </p>
- * 🌍 I'm based in Sofia
+  🌍 I'm based in Sofia
 
-- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+ 👯 I’m looking to collaborate on **interesting projects**
 
-- 🤝 I’m looking for help with **finding my first job as JS developer**
+ 🤝 I’m looking for help with **finding my first job as JS developer**
 
-- 📫 How to reach me **18app81@gmail.com**
+ 📫 How to reach me **18app81@gmail.com**
 
-- ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
+ ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
 
-<i class="fa-duotone fa-angles-right fa-fade">Discipline - this is the decision to do what you don't want to achieve what you really want!</i>
+ <p> &#xf101 Discipline - this is the decision to do what you don't want to achieve what you really want! </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
