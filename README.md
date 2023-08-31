@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
 
-- <i class="fa-duotone fa-angles-right fa-fade">Discipline - this is the decision to do what you don't want to achieve what you really want!</i>
+<i class="fa-duotone fa-angles-right fa-fade">Discipline - this is the decision to do what you don't want to achieve what you really want!</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
