@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
 
+- <i class="fa-duotone fa-angles-right fa-fade">Discipline - this is the decision to do what you don't want to achieve what you really want!</i>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anatoli-pavlov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anatoli-pavlov" height="30" width="40" /></a>
