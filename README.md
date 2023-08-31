@@ -13,8 +13,8 @@
  📫 How to reach me **18app81@gmail.com**
 
  ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
-
- <h3><i class='fas fa-angle-double-right'></i> Discipline - this is the decision to do what you don't want to achieve what you really want!</h3>
+ 
+ ⚡ Discipline - **this is the decision to do what you don't want to achieve what you really want!**
 
 
 <h3 align="left">Connect with me:</h3>
