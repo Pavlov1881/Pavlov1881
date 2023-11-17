@@ -2,7 +2,6 @@
 <h2 align="center">Wellcome to my GitHub profile!</h2>
 <h3 align="center">I'm learning JavaScript in Software University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavlov1881&label=Profile%20views&color=0e75b6&style=flat" alt="pavlov1881" /> </p>
   
  🌱 I’m currently learning **React**
 
