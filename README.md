@@ -9,7 +9,7 @@
 
  🤝 I’m looking for help with **finding my first job as JS developer**
 
- 📫 How to reach me **18app81@gmail.com**
+ 📫 How to reach me **anatoli.pavlov@mail.bg**
 
  ⚡ Fun fact **Аfter 10 years of working in the banking sector, I decided to change my life and start learning JavaScript**
  
