@@ -3,7 +3,7 @@
 <h3 align="center">I'm learning JavaScript in Software University.</h3>
 
   
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **QA**
 
  👯 I’m looking to collaborate on **interesting projects**
 
